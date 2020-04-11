@@ -4,8 +4,8 @@ Um simples inversor de frequência:
 
 Apenas importe para o falstad
 
-![asd]()
-![asd]()
+![Oscilloscope](assets/oscilloscope.png)
+![Circuit](assets/circuit.png)
 
 ```
 $ 1 0.000001 5.023272298708815 46 5 43
