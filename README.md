@@ -2,7 +2,7 @@
 
 Um simples inversor de frequência:
 
-Apenas importe para o falstad
+Apenas importe para o [falstad](https://www.falstad.com/circuit/circuitjs.html) como um texto o código abaixo:
 
 ![Oscilloscope](assets/oscilloscope.png)
 ![Circuit](assets/circuit.png)
