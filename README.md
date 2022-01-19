@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-Olá, seja bem vindo a este repositório. Aqui eu tento documentar o que fiz em simuladores online enquanto estudava tópicos do curso de Engenharia Elétrica. Sinta-se a vontade para sugerir mudanças!
+Olá, seja bem vindo a este repositório. Aqui eu tento documentar o que fiz em simuladores online (Falstad, PartQuest e CircuitVerse) enquanto estudava tópicos do curso de Engenharia Elétrica. Sinta-se a vontade para sugerir mudanças!
 
 <h2 align="center">Clique nos ícones</h2>
 
